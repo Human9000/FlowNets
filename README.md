@@ -1,4 +1,4 @@
-# FlowNets Project
+# Project
  多种支持流处理的高效1d时序模型，支持流式分类和分割任务
 
 # Models
